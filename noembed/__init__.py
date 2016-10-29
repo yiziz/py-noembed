@@ -1,6 +1,6 @@
 import requests
 
-NOEMBED_ENDPOINT_URL = 'http://www.noembed.com/embed'
+NOEMBED_ENDPOINT_URL = 'https://noembed.com/embed'
 
 class NoEmbedException(Exception):
     pass
